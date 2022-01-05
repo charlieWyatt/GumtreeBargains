@@ -1,0 +1,15 @@
+samsung
+lg
+hisense
+sony
+traderbrand
+tcl
+panasonic
+jvc
+changhong
+teac
+hitachi
+palsonic
+philips
+teco
+sharp
